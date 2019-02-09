@@ -1,0 +1,4 @@
+﻿  OOP2_1.cpp
+d:\proj_for_programm(2018)\oop2_1\oop2_1\oop2_1.cpp(6): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  d:\proj_for_programm(2018)\oop2_1\oop2_1\oop2_1.cpp(6): note: аргументы командной строки:  см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+  OOP2_1.vcxproj -> D:\proj_for_programm(2018)\OOP2_1\Debug\OOP2_1.exe
